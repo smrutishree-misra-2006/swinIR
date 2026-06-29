@@ -28,13 +28,7 @@ This project presents a comparative study of multiple model configurations train
 ├── SwinIR_Medium.ipynb
 ├── SwinIR_Default.ipynb
 │
-├── ESRT_Small.ipynb
-├── ESRT_Medium.ipynb
-├── ESRT_Default.ipynb
-│
-├── checkpoints/
-├── results/
-├── README.md
+├── esrt-model.ipynb
 ```
 
 ---
